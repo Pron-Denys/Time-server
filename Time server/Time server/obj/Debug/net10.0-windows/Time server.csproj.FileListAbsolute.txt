@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Time server\Time server\bin\Debug\net10.0-windows\Time server.exe
+C:\Users\User\source\repos\Time server\Time server\bin\Debug\net10.0-windows\Time server.deps.json
+C:\Users\User\source\repos\Time server\Time server\bin\Debug\net10.0-windows\Time server.runtimeconfig.json
+C:\Users\User\source\repos\Time server\Time server\bin\Debug\net10.0-windows\Time server.dll
+C:\Users\User\source\repos\Time server\Time server\bin\Debug\net10.0-windows\Time server.pdb
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time_server.Form1.resources
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.AssemblyInfo.cs
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.dll
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\refint\Time server.dll
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.pdb
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\Time server.genruntimeconfig.cache
+C:\Users\User\source\repos\Time server\Time server\obj\Debug\net10.0-windows\ref\Time server.dll
