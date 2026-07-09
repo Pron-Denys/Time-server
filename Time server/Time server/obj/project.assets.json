@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Time server\\Time server\\Time server.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server\\Time server\\Time server.csproj",
       "projectName": "Time server",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Time server\\Time server\\Time server.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server\\Time server\\Time server.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Time server\\Time server\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server\\Time server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

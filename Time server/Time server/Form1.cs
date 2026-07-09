@@ -36,15 +36,21 @@ namespace Time_server
 
         private async void SendTo()
         {
-            await Task.Run(() =>
+            await Task.Run(async () =>
             {
                 try
                 {
-                    
-                    IPEndPoint end_point = new IPEndPoint(IPAddress.Parse(ip_address!), 49153);
+                    IPEndPoint end_point_1 = new IPEndPoint(IPAddress.Parse(ip_address!), 49154);
+                    Socket sock_connect = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+                    sock_connect.SendTo(Encoding.Default.GetBytes("Connect"), end_point_1);
+                    EndPoint remote_1 = new IPEndPoint(0x7F0000, 100);
+                    byte[] buf_bytes_1 = new byte[1024];
+                    int len = sock_connect.ReceiveFrom(buf_bytes_1, ref remote_1);
+
+                    IPEndPoint end_point_2 = new IPEndPoint(IPAddress.Parse(ip_address!), 49153);
                     Socket sock = new(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
                     byte[] bytes = Encoding.Default.GetBytes("Connect");
-                    sock.SendTo(bytes, end_point);
+                    sock.SendTo(bytes, end_point_2);
                     EndPoint remote = new IPEndPoint(0x07F00000, 2001);
                     while (true)
                     {

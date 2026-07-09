@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Time server  [Server]\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02A0A319-E2D4-20A0-40B5-BFBEB44958F4}|Time server  [Server]\\Time server  [Server].csproj|c:\\users\\user\\source\\repos\\time server  [server]\\time server  [server]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02A0A319-E2D4-20A0-40B5-BFBEB44958F4}|Time server  [Server]\\Time server  [Server].csproj|c:\\users\\user\\source\\repos\\time server project\\time server  [server]\\time server  [server]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A0A319-E2D4-20A0-40B5-BFBEB44958F4}|Time server  [Server]\\Time server  [Server].csproj|solutionrelative:time server  [server]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFB85730-4791-4C85-23C5-4BDB4329FBA6}|Time_Server\\Time_Server.csproj|c:\\users\\user\\source\\repos\\time server  [server]\\time_server\\time_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFB85730-4791-4C85-23C5-4BDB4329FBA6}|Time_Server\\Time_Server.csproj|c:\\users\\user\\source\\repos\\time server project\\time server  [server]\\time_server\\time_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFB85730-4791-4C85-23C5-4BDB4329FBA6}|Time_Server\\Time_Server.csproj|solutionrelative:time_server\\time_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -84,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Time_Server.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time server  [Server]\\Time_Server\\Time_Server.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\Time_Server\\Time_Server.cs",
               "RelativeDocumentMoniker": "Time_Server\\Time_Server.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Time server  [Server]\\Time_Server\\Time_Server.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\Time_Server\\Time_Server.cs",
               "RelativeToolTip": "Time_Server\\Time_Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T13:41:34.452Z"
             },
@@ -96,11 +96,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time server  [Server]\\Time server  [Server]\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\Time server  [Server]\\Program.cs",
               "RelativeDocumentMoniker": "Time server  [Server]\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Time server  [Server]\\Time server  [Server]\\Program.cs*",
-              "RelativeToolTip": "Time server  [Server]\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\Time server  [Server]\\Program.cs",
+              "RelativeToolTip": "Time server  [Server]\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T10:54:31.924Z",
               "EditorCaption": ""
