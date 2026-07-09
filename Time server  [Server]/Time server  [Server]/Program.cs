@@ -42,9 +42,9 @@
                             if (time_server.Connection_Log.Count == i)
                             {
                                 time_server.Connected = false;
-                                time_server.Disconnect = true;
+                                time_server.Wait = true;
                                 ReceiveFrom(time_server);
-                                while (time_server.Disconnect == true)
+                                while (time_server.Wait == true)
                                 {
                                     if (time_server.Connected)
                                     {
@@ -104,13 +104,14 @@
                 {
                     while (true)
                     {
+                        time_server.Disconnect = false;
                         IPEndPoint end_point = new IPEndPoint(IPAddress.Any, 49153);
                         Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
                         sock.Bind(end_point);
                         EndPoint remote = new IPEndPoint(0xF0700000, 2000);
                         byte[] buf_bytes = new byte[1024];
                         time_server.Connected = true;
-                        time_server.Disconnect = false;
+                        time_server.Wait = false;
                         int count_bytes = sock.ReceiveFrom(buf_bytes, ref remote);
                         Console.WriteLine($"Client: {((IPEndPoint)remote).Address}:{((IPEndPoint)remote).Port} connected {DateTime.Now}");
                         time_server.Connection_Log.Add($"Client: {((IPEndPoint)remote).Address}:{((IPEndPoint)remote).Port} connected {DateTime.Now}");

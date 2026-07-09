@@ -88,9 +88,10 @@
               "RelativeDocumentMoniker": "Time_Server\\Time_Server.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\Time_Server\\Time_Server.cs",
               "RelativeToolTip": "Time_Server\\Time_Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T13:41:34.452Z"
+              "WhenOpened": "2026-07-08T13:41:34.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,7 +101,7 @@
               "RelativeDocumentMoniker": "Time server  [Server]\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Time server Project\\Time server  [Server]\\Time server  [Server]\\Program.cs*",
               "RelativeToolTip": "Time server  [Server]\\Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T10:54:31.924Z",
               "EditorCaption": ""
