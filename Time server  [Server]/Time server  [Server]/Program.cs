@@ -67,7 +67,7 @@
             {
                 try
                 {
-                    IPEndPoint end_point = new(IPAddress.Any, 9152);
+                    IPEndPoint end_point = new(IPAddress.Any, 49152);
                     Socket sock = new(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
                     sock.Bind(end_point);
                     EndPoint remote_2 = new IPEndPoint(0xF0700000, 2003);
