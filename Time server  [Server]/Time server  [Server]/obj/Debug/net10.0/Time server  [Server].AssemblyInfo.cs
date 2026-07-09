@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Time server  [Server]")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b43007d85b08f86b73bf8784b7335a05f53ec3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b25893bf1334971ac1d40a99887d25a4234c429a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Time server  [Server]")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Time server  [Server]")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
