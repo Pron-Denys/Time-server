@@ -111,8 +111,8 @@
                         EndPoint remote = new IPEndPoint(0xF0700000, 2000);
                         byte[] buf_bytes = new byte[1024];
                         time_server.Connected = true;
-                        time_server.Wait = false;
                         int count_bytes = sock.ReceiveFrom(buf_bytes, ref remote);
+                        time_server.Wait = false;
                         Console.WriteLine($"Client: {((IPEndPoint)remote).Address}:{((IPEndPoint)remote).Port} connected {DateTime.Now}");
                         time_server.Connection_Log.Add($"Client: {((IPEndPoint)remote).Address}:{((IPEndPoint)remote).Port} connected {DateTime.Now}");
                         SendTo(time_server, (IPEndPoint)remote);
